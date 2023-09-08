@@ -6,7 +6,7 @@
  * n: positive or negative
  * return: Always 0 (sucess)
  */
-int main(void)
+int main(int n)
 {
 	int n;
 
