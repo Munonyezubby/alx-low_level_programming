@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * positive or negative
+ * n: positive or negative
  * return: Always 0 (sucess)
  */
 int main(void)
