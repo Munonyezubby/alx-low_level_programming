@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  * main - entry point
+  * main - this is the main function
   * n: positive or negative
-  * return: Always 0 (sucess)
+  * return: always 0
   */
 /* betty style doc for function main goes there */
 int main(void)
