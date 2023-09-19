@@ -15,6 +15,7 @@ void rev_string(char *s)
 	{
 
 	char j;
+	
 	j = s[k];
 
 	s[k] = s[count - 1 - k];
