@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - main function for task 9
+ * print_number - main function
  *
  * @n: Function parameter
  *
